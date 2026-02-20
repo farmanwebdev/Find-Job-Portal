@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Find-Job-Portal/',   // 👈 IMPORTANT
+  base: '/Find-Job-Portal/',   // MUST match repo name exactly
 })
