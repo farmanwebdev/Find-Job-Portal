@@ -51,10 +51,10 @@ const JobCard = ({ job }) => {
 
       <div className="job-card-actions">
         <Link to={`/jobs/${job.id}`} className="btn-primary">
-          View Details
+          View_Details
         </Link>
         <button className="btn-secondary">
-          Save Job
+          Save_Job
         </button>
       </div>
     </div>
