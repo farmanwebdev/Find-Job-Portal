@@ -56,7 +56,7 @@ const Layout = ({ children }) => {
             <div className="navbar-logo-icon">
               <BriefcaseIcon className="h-6 w-6 text-white" />
             </div>
-            <span className="navbar-logo-text">JobNexus</span>
+            <span className="navbar-logo-text">GB Freelancers</span>
           </Link>
 
           {/* ======= Desktop Navigation ======*/}
@@ -242,7 +242,7 @@ const Layout = ({ children }) => {
                 <div className="footer-logo-icon">
                   <BriefcaseIcon className="h-6 w-6 text-white" />
                 </div>
-                <span className="footer-logo-text">JobNexus</span>
+                <span className="footer-logo-text">GB Freelancers</span>
               </div>
               <p className="footer-desc">
                 Connect with top employers and discover opportunities that match your skills and aspirations.

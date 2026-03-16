@@ -327,7 +327,7 @@ const HomePage = () => {
       <div className="why-section">
         <div className="why-container">
           <div className="section-header">
-            <h2 className="section-title">Why Choose JobNexus</h2>
+            <h2 className="section-title">Why Choose GB Freelancers</h2>
             <p className="section-subtitle">
               We connect the best talent with the best companies
             </p>
@@ -354,7 +354,7 @@ const HomePage = () => {
         <div className="cta-container">
           <h2 className="cta-title">Ready to Take the Next Step in Your Career?</h2>
           <p className="cta-description">
-            Join thousands of job seekers who found their dream jobs through JobNexus
+            Join thousands of job seekers who found their dream jobs through GB Freelancers
           </p>
           <div className="cta-buttons">
             <a href="/signup" className="cta-button-primary">

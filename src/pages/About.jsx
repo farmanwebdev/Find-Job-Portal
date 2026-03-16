@@ -16,7 +16,7 @@ const About = () => {
                     <div className="about-hero-content">
                         <div>
                             <h1 className="text-3xl md:text-5xl font-bold mb-4">
-                                About JobNexus
+                                About GB Freelancers
                             </h1>
                             <p>
                                 We're on a mission to connect talented individuals with their dream careers and help companies build their perfect teams.
@@ -124,7 +124,7 @@ const About = () => {
                 <div className="container mx-auto px-4 sm:px-6 lg:px-8">
                     <h2 className="about-section-title">Meet Our Team</h2>
                     <p className="about-section-subtitle">
-                        The passionate people behind JobNexus
+                        The passionate people behind GB Freelancers
                     </p>
 
                     <div className="about-team">
