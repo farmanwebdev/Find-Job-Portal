@@ -224,7 +224,7 @@ const HomePage = () => {
                   />
                 </div>
                 <button type="submit" className="hero-search-button">
-                  Search Jobs
+                  Find Jobs
                 </button>
               </form>
             </div>
