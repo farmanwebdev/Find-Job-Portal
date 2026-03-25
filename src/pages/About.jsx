@@ -145,7 +145,7 @@ const About = () => {
             <div className="bg-primary-600 py-16">
                 <div className="container mx-auto px-4 sm:px-6 lg:px-8 text-center">
                     <h2 className="text-2xl md:text-3xl font-bold text-white mb-4">
-                        Ready to Find Your Dream Job?
+                        Ready to Find Your Dream Job? let's Get Started!
                     </h2>
                     <p className="text-primary-100 mb-8 max-w-2xl mx-auto">
                         Join thousands of job seekers who have found their perfect career match through JobNexus.
