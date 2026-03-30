@@ -57,6 +57,15 @@ const blogs = [
         date: "Jan 3, 2024",
         readTime: "5 min read"
     }
+    {
+        id: 7,
+        title: "Building Your Professional Network",
+        excerpt: "Effective networking strategies that actually work. Learn how to build meaningful connections in your industry.",
+        category: "Networking",
+        author: "James Brown",
+        date: "Jan 3, 2024",
+        readTime: "5 min read"
+    }
 ];
 
 // Video carousel data for background
